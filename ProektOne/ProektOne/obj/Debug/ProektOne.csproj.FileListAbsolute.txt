@@ -1,0 +1,9 @@
+C:\Proekt_git\ProektOne\ProektOne\bin\Debug\ProektOne.exe
+C:\Proekt_git\ProektOne\ProektOne\bin\Debug\ProektOne.pdb
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.csproj.AssemblyReference.cache
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.Form1.resources
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.Properties.Resources.resources
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.csproj.GenerateResource.cache
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.csproj.CoreCompileInputs.cache
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.exe
+C:\Proekt_git\ProektOne\ProektOne\obj\Debug\ProektOne.pdb
